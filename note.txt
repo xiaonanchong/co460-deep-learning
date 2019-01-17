@@ -1,1 +1,3 @@
-
+1-ML BASICS
+given training data {(xi, yi)~p i.i.d}i=1:n
+find optimal parameters 
